@@ -1,20 +1,16 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-//import HelloWorld from './components/HelloWorld.vue'
+import NavBar from '@/components/NavBar.vue';
 </script>
 
-<template>
-  <header>
-    <div class="wrapper">
-
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
+<template >
+  <div class="flex flex-col items-center">
+    <div class="container-lg max-w-5xl " >
+      <NavBar/>
+      <header></header>
+      <RouterView />
     </div>
-  </header>
-
-  <RouterView />
+  </div>
 </template>
 
 <style scoped>
