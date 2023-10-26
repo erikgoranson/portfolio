@@ -1,3 +1,34 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer base {
+    div {
+      @apply bg-[#1b1d1e] text-neutral-200  font-mono;
+    }
+}
+
+:root {
+    --color-scrollbar-track: rgb(24, 26, 27); 
+    --color-scrollbar: rgba(97, 94, 97, 0.596);
+}
+
+/* scrollbar stuff */
+* {   /* Works on Firefox */
+    scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);
+}
+  
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+    width: 20px;
+}
+  
+*::-webkit-scrollbar-track {
+    background: var(--color-scrollbar-track);
+}
+  
+*::-webkit-scrollbar-thumb {
+    background-color: var(--color-scrollbar);
+    border-radius: 20px;
+}
