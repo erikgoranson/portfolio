@@ -2,20 +2,27 @@
 </script>
 
 <template>
-  <div class="test flex flex-col items-center mb-10 mt-60">
-    <div class="hero-title">Erik Goranson</div>
-    <div class="hero-byline">Full Stack Software Developer</div>
+
+  <div id="hero" class="slide flex flex-col mb-10 mt-64">
+    <div class="hero-title flex flex-col lg:flex-row">
+      Erik Goranson
+    </div>
+    <div class="hero-byline ml-1">
+      Full Stack Software Developer
+    </div>
   </div>
   
-  <hr>
-  <div>
-    TEXT GOES HERE
+  <div class="flex flex-col items-start my-20 text-lg font-mono">
+    <p class="mb-5">
+      I am a software developer from Greeley, Colorado. I have worked with numerous programming languages and technologies to write solutions, both backend and frontend. I love using code to help solve problems.
+    </p>
   </div>
 </template>
 
 <style scoped>
-.test{
-    opacity: 0;
+
+.slide{
+  opacity: 0;
     -webkit-animation: slide-in 1s 0.2s forwards;
     -moz-animation: slide-in 1s 0.2s forwards;
     -o-animation: slide-in 1s 0.2s forwards;
@@ -67,10 +74,12 @@
 }
 
 .hero-title {
-    @apply text-5xl lg:text-8xl text-[#73C991] font-mono;
+    @apply text-7xl lg:text-8xl text-[#73C991];
+
 }
 
 .hero-byline {
-    @apply text-3xl lg:text-4xl font-mono;
+    @apply text-3xl lg:text-4xl;
 }
+
 </style>
