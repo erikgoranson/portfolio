@@ -1,6 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import HomeView from '../views/HomeView.vue';
-import 404View from '../views/404View.vue';
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
