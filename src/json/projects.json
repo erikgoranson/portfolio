@@ -1,7 +1,7 @@
 [{
     "title": "Vue Pokédex",
     "description": "A pokedex made with Vue, TypeScript, Tailwind, and Pinia. This was made to help my kids with their various pokemon questions as they played thorugh the recent releases. The intent was to make all the info from the core RPG games easily accessible in a single page",
-    "image": "https://raw.githubusercontent.com/erikgoranson/pokedex-vue/master/screenshot_v1.PNG",
+    "image": "/src/assets/pokedex-vue-image.png",
     "links": {
         "github": "https://github.com/erikgoranson/pokedex-vue",
         "preview": "https://erikgoranson-pokedex-vue.vercel.app/"
@@ -15,11 +15,11 @@
     }
 }, {
     "title": "Portfolio",
-    "description": "You are here. My portfolio website built with VueJs, Typescript, and Tailwind. It was also an opportunity to design a logo for a site and to   ",
-    "image": "IMAGE",
+    "description": "You are here. My portfolio website built with VueJs, Typescript, and Tailwind. Also my first foray into designing a logo for a site.",
+    "image": "/src/assets/portfolio-image.png",
     "links": {
         "github": "https://github.com/erikgoranson/portfolio",
-        "preview": "GITHUB PAGES"
+        "preview": "GITHUBPAGES"
     }
 }, {
     "title": "Prize Game",
@@ -31,7 +31,7 @@
 }, {
     "title": "Firefly Translations API",
     "description": "An API built using Flask, SQLAlchemy, and Marshmallow to allow easy access to the Chinese (and English translations) that appear in the series Firefly. A work in progress for some close friends who share the appreciation for the added flavor these bits lent to the show",
-    "image": "IMAGE",
+    "image": "https://github.com/erikgoranson/firefly-chinese-web-scraper/raw/main/screenshot.png",
     "links": {
         "github": "https://github.com/erikgoranson/firefly-translation-api"
     }

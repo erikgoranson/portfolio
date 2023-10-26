@@ -21,6 +21,14 @@ const router = createRouter({
       },
     },
     {
+      path: '/dragon',
+      name: 'dragon',
+      component: () => import('../views/DragonView.vue'),
+      meta: {
+        layout: 'default',
+      },
+    },
+    {
       path: '/:pathMatch(.*)*',
       name: '404',
       component: () => import('../views/404View.vue')
