@@ -1,0 +1,92 @@
+{
+    "frontend": {
+        "heading": "Front End Experience",
+        "description": "I have experience developing frontend applications with a variety of languages and frameworks, most recently Typescript and Vue. mention tailwind. these are some of the tech I've used recently.",
+        "skills": [{
+                "name": "Javascript",
+                "icon": "devicon-javascript-plain"
+            }, {
+                "name": "react",
+                "icon": "devicon-react-original"
+            }, {
+                "name": "tailwind",
+                "icon": "devicon-tailwindcss-plain"
+            }, {
+                "name": "Typescript",
+                "icon": "devicon-typescript-plain"
+            }, {
+                "name": "vue",
+                "icon": "devicon-vuejs-plain"
+            }, {
+                "name": "html",
+                "icon": "devicon-html5-plain-wordmark"
+            }, {
+                "name": "angular",
+                "icon": "devicon-angularjs-plain"
+            }, {
+                "name": "css",
+                "icon": "devicon-css3-plain-wordmark"
+            }
+        ]
+    },
+    "backend": {
+        "heading": "Back End Experience",
+        "description": "I'm experienced with building applications with C# and Flask. I'm also experienced with various database options including SQLite, DynamoDB, and MySQL, though I most of my database experince is with T-SQL",
+        "skills": [{
+                "name": "C#",
+                "icon": "devicon-csharp-plain"
+            }, {
+                "name": "django",
+                "icon": "devicon-django-plain-wordmark"
+            }, {
+                "name": "vb.net",
+                "icon": "devicon-dot-net-plain"
+            }, {
+                "name": "flask",
+                "icon": "devicon-flask-original"
+            }, {
+                "name": "SQL",
+                "icon": "devicon-microsoftsqlserver-plain"
+            }, {
+                "name": "php",
+                "icon": "devicon-php-plain"
+            }, {
+                "name": "Python",
+                "icon": "devicon-python-plain"
+            }, {
+                "name": "sqlite",
+                "icon": "devicon-sqlite-plain"
+            }
+        ]
+    },
+    "tools": {
+        "heading": "Tools and Technologies",
+        "description": "her are some tools I've used recently. octopus. mostly used microsoft, but have familiarity with linux. vercel and github pages. snyk. familiar with REST APIs, used often",
+        "skills": [{
+                "name": "npm",
+                "icon": "devicon-npm-original-wordmark"
+            }, {
+                "name": "putty",
+                "icon": "devicon-putty-plain colored"
+            }, {
+                "name": "aws",
+                "icon": "devicon-amazonwebservices-original"
+            }, {
+                "name": "git",
+                "icon": "devicon-git-plain"
+            }, {
+                "name": "vim",
+                "icon": "devicon-vim-plain"
+            }, {
+                "name": "vs2019",
+                "icon": "devicon-visualstudio-plain"
+            }, {
+                "name": "vscode",
+                "icon": "devicon-vscode-plain"
+            }, {
+                "name": "rest api",
+                "icon": "devicon-bash-plain"
+            }
+        ]
+    }
+}
