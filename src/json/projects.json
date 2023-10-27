@@ -8,7 +8,7 @@
     }
 }, {
     "title": "Firefly Chinese Web Scraper",
-    "description": "A Python app for scraping translations of the Chinese phrases which appeared in Firefly and Serenity from an old fansite, https://fireflychinese.kevinsullivansite.net. The intent was to use this data to seed an API for the Chinese that appears on the show",
+    "description": "A Python app for scraping translations of the Chinese phrases which appeared in Firefly and Serenity from an old fansite. The intent was to use this data to seed an API for the Chinese that appears on the show",
     "image": "https://github.com/erikgoranson/firefly-chinese-web-scraper/raw/main/screenshot.png",
     "links": {
         "github": "https://github.com/erikgoranson/firefly-chinese-web-scraper"
