@@ -11,7 +11,7 @@
                 <i class="devicon-linkedin-plain mr-4"></i>
             </a>
 
-            <a href="/src/assets/erikgoranson_resume.pdf" rel="noopener" target="_blank" >
+            <a href="/erikgoranson_resume.pdf" rel="noopener" target="_blank" >
                 <button class="hover:bg-[#73C991] py-3 px-2 border-4 border-double rounded border-[#73C991] rounded mr-4">
                     RESUME
                 </button>

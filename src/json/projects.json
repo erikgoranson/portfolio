@@ -1,7 +1,7 @@
 [{
     "title": "Vue Pokédex",
     "description": "A pokedex made with Vue, TypeScript, Tailwind, and Pinia. This was made to help my kids with their various pokemon questions as they played thorugh the recent releases. The intent was to make all the info from the core RPG games easily accessible in a single page",
-    "image": "/src/assets/pokedex-vue-image.png",
+    "image": "/images/pokedex-vue-image.png",
     "links": {
         "github": "https://github.com/erikgoranson/pokedex-vue",
         "preview": "https://erikgoranson-pokedex-vue.vercel.app/"
@@ -16,7 +16,7 @@
 }, {
     "title": "Portfolio",
     "description": "You are here. My portfolio website built with VueJs, Typescript, and Tailwind. Also my first foray into designing a logo for a site.",
-    "image": "/src/assets/portfolio-image.png",
+    "image": "/images/portfolio-image.png",
     "links": {
         "github": "https://github.com/erikgoranson/portfolio",
         "preview": "GITHUBPAGES"

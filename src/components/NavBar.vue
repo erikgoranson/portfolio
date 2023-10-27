@@ -9,7 +9,7 @@ import { RouterLink } from 'vue-router'
         
         <a class="nav-link" href="#projects">Projects</a>
         <a class="nav-link" href="#contact">Contact</a>
-        <a class="resume-link" href="/src/assets/erikgoranson_resume.pdf" rel="noopener" target="_blank" >Resume</a>
+        <a class="resume-link" href="/erikgoranson_resume.pdf" rel="noopener" target="_blank" >Resume</a>
       </div>
     </nav>
 </template>
