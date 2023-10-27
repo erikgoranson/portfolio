@@ -31,7 +31,7 @@
     },
     "backend": {
         "heading": "Back End Experience",
-        "description": "I'm experienced with building applications with C# and Flask. I'm also experienced with various database options including SQLite, DynamoDB, and MySQL, though I most of my database experince is with T-SQL",
+        "description": "I'm experienced with building applications with C# and Flask. I'm also experienced with various database options including SQLite, DynamoDB, and MySQL, though I most of my database experience is with T-SQL",
         "skills": [{
                 "name": "C#",
                 "icon": "devicon-csharp-plain"
