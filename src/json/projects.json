@@ -4,7 +4,7 @@
     "image": "/images/pokedex-vue-image.png",
     "links": {
         "github": "https://github.com/erikgoranson/pokedex-vue",
-        "preview": "https://erikgoranson-pokedex-vue.vercel.app/"
+        "live": "https://erikgoranson-pokedex-vue.vercel.app/"
     }
 }, {
     "title": "Firefly Chinese Web Scraper",
@@ -19,7 +19,7 @@
     "image": "/images/portfolio-image.png",
     "links": {
         "github": "https://github.com/erikgoranson/portfolio",
-        "preview": "GITHUBPAGES"
+        "live": "https://erikgoranson-portfolio.vercel.app/"
     }
 }, {
     "title": "Prize Game",

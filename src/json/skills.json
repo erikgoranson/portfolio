@@ -1,7 +1,7 @@
 {
     "frontend": {
         "heading": "Front End Experience",
-        "description": "I have experience developing frontend applications with a variety of languages and frameworks, most recently Typescript and Vue. I have experience with Tailwind and Bootstrap as well as working with CSS directly.",
+        "description": "I have experience developing frontend applications with a variety of languages and frameworks, most recently Typescript and Vue. I have experience with Tailwind and Bootstrap as well as working directly with CSS.",
         "skills": [{
                 "name": "Javascript",
                 "icon": "devicon-javascript-plain"
@@ -31,7 +31,7 @@
     },
     "backend": {
         "heading": "Back End Experience",
-        "description": "I'm experienced with building applications with C# and Flask. I'm also experienced with various database options including SQLite, DynamoDB, and MySQL, though I most of my database experience is with T-SQL",
+        "description": "I'm experienced with building applications with C# and Flask. I'm also experienced with various database options including SQLite, DynamoDB, and MySQL, though most of my database experience is with T-SQL",
         "skills": [{
                 "name": "C#",
                 "icon": "devicon-csharp-plain"
@@ -61,7 +61,7 @@
     },
     "tools": {
         "heading": "Tools and Technologies",
-        "description": "Here are some of the tools I've used recently. I am familiar with both Windows and Linux. For deployments, I've mostly used Octopus. I have worked often with various REST APIs",
+        "description": "I am familiar with both Windows and Linux. For deployments, I've mostly used Octopus. I have worked often with various REST APIs. Here are some of the tools I've used recently:",
         "skills": [{
                 "name": "npm",
                 "icon": "devicon-npm-original-wordmark"
